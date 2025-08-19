@@ -1,0 +1,6 @@
+ibm-watsonx-ai
+langchain
+langchain-ibm
+chromadb
+gradio==2.2.15
+pypdf
